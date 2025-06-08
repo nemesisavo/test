@@ -1,2 +1,2 @@
 # test
-Descripcion del repositorio
+Descripcion del repositorio test (fichero de prueba)
